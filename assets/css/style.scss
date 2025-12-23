@@ -1,0 +1,142 @@
+@import "jekyll-theme-midnight";
+
+/* BucketBook Theme Override */
+
+body {
+  background: #0D0D0D;
+  color: #FFFFFF;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+}
+
+#header_wrap {
+  background: linear-gradient(to bottom, #1A1A1A, #0D0D0D);
+  border-bottom: 2px solid #FF7A00;
+}
+
+#header_wrap .inner {
+  padding: 30px 10px;
+}
+
+#project_title {
+  color: #FF7A00;
+  font-weight: 700;
+  text-shadow: none;
+}
+
+#project_tagline {
+  color: #9B9B9B;
+  text-shadow: none;
+}
+
+#main_content_wrap {
+  background: #0D0D0D;
+  border-top: none;
+}
+
+#main_content {
+  padding-top: 40px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #FFFFFF;
+  font-weight: 600;
+  border-bottom-color: #333333;
+}
+
+h1 {
+  color: #FF7A00;
+}
+
+h2 {
+  border-bottom: 1px solid #333333;
+  padding-bottom: 8px;
+}
+
+a {
+  color: #FF7A00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFB84D;
+  text-decoration: underline;
+}
+
+p, li {
+  color: #FFFFFF;
+  line-height: 1.7;
+}
+
+strong {
+  color: #FFFFFF;
+}
+
+code {
+  background: #1A1A1A;
+  border: 1px solid #333333;
+  color: #FF7A00;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+pre {
+  background: #1A1A1A;
+  border: 1px solid #333333;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+blockquote {
+  border-left: 4px solid #FF7A00;
+  background: #1A1A1A;
+  padding: 12px 20px;
+  margin: 20px 0;
+  color: #9B9B9B;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #333333;
+  margin: 30px 0;
+}
+
+ul, ol {
+  color: #FFFFFF;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Footer */
+#footer_wrap {
+  background: #1A1A1A;
+  border-top: 1px solid #333333;
+}
+
+#footer_wrap .inner {
+  color: #666666;
+}
+
+/* Mobile responsiveness */
+@media screen and (max-width: 768px) {
+  #header_wrap .inner,
+  #main_content_wrap .inner,
+  #footer_wrap .inner {
+    padding: 20px 15px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.4em;
+  }
+}
+
+/* Selection highlight */
+::selection {
+  background: #FF7A00;
+  color: #0D0D0D;
+}
