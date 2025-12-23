@@ -1,6 +1,6 @@
 # Privacy Policy for BucketBook
 
-**Last Updated: December 23, 2024**
+**Last Updated: December 23, 2025**
 
 This Privacy Policy describes how BucketBook ("we," "our," or "the App") collects, uses, and protects your information when you use our basketball statistics tracking application.
 
