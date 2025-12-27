@@ -1,9 +1,8 @@
 # Terms of Service for BucketBook
 
-**Last Updated: December 23, 2025**
+**Last Updated: December 26, 2025**
 
-These Terms of Service ("Terms") govern your use of the BucketBook mobile application ("App," "Service," or "we"). By downloading, installing, or using BucketBook, you 
-agree to these Terms.
+These Terms of Service ("Terms") govern your use of the BucketBook mobile application ("App," "Service," or "we"). By downloading, installing, or using BucketBook, you agree to these Terms.
 
 ## 1. Description of Service
 
@@ -14,6 +13,9 @@ BucketBook is a basketball statistics tracking application designed for individu
 - Track shot locations on an interactive court diagram
 - Organize games into seasons
 - View statistical summaries and analytics
+- Set and track goals (e.g., "Score 15 points in a game" or "Average 8 PPG this season")
+- View career highs and personal bests
+- Compare performance across seasons or time periods
 - Share game summaries as images
 
 ## 2. Eligibility
@@ -26,7 +28,7 @@ You must be at least 13 years old to create an account. Users under 18 may use t
 Creating an account is optional. The App functions fully without an account using local device storage. If you choose to create an account, you must provide a valid email address and password (minimum 6 characters).
 
 ### Account Security
-You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately of any unauthorized access to your account.     
+You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately of any unauthorized access to your account.
 
 ### Account Deletion
 You may delete your account at any time through the Settings screen. Account deletion is permanent and irreversible. Deleting your account will:
@@ -45,7 +47,7 @@ The App offers a free tier with the following limits:
 
 ### Pro Subscription
 BucketBook Pro removes these limits and adds additional features:
-- Up to 10 players
+- Up to 5 players
 - Unlimited games
 - Unlimited seasons
 - Cloud backup and sync across devices
@@ -60,7 +62,7 @@ BucketBook Pro removes these limits and adds additional features:
 Refund requests are handled by Apple or Google according to their respective policies. We do not process refunds directly.
 
 ### Price Changes
-We reserve the right to change subscription prices. Price changes will not affect your current billing period and you will be notified before any change takes effect.  
+We reserve the right to change subscription prices. Price changes will not affect your current billing period and you will be notified before any change takes effect.
 
 ## 5. User Content
 
@@ -109,8 +111,7 @@ Your use of these services is subject to their respective terms and privacy poli
 
 ## 10. Disclaimers
 
-THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR 
-SECURE.
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, OR SECURE.
 
 We are not responsible for the accuracy of statistics you record or any decisions made based on data in the App.
 
@@ -157,5 +158,3 @@ If you have questions about these Terms, please contact us at:
 ---
 
 *These Terms of Service apply to BucketBook version 1.0.0 and later.*
-
----
