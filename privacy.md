@@ -1,6 +1,6 @@
 # Privacy Policy for BucketBook
 
-**Last Updated: December 23, 2025**
+**Last Updated: December 26, 2025**
 
 This Privacy Policy describes how BucketBook ("we," "our," or "the App") collects, uses, and protects your information when you use our basketball statistics tracking application.
 
@@ -32,6 +32,12 @@ This Privacy Policy describes how BucketBook ("we," "our," or "the App") collect
 - Assists, steals, blocks, turnovers, and fouls
 - Timing information (period number, game time)
 
+**Goals**
+- Goal type (milestone, average, or improvement)
+- Target statistic and value
+- Time period or deadline
+- Goal status (active, completed, or missed)
+
 **Account Information (optional)**
 If you choose to create an account:
 - Email address
@@ -49,7 +55,7 @@ If you choose to create an account:
 ## How Your Data Is Stored
 
 ### Local Storage
-All basketball statistics data is stored locally on your device in a SQLite database. This data remains on your device and is not automatically transmitted anywhere.   
+All basketball statistics data is stored locally on your device in a SQLite database. This data remains on your device and is not automatically transmitted anywhere.
 
 ### Cloud Storage (Pro Subscribers Only)
 If you subscribe to BucketBook Pro and create an account, your data is synchronized to our cloud servers hosted by Supabase. This enables you to:
@@ -89,7 +95,7 @@ RevenueCat does not receive your personal information unless you create an accou
 ### Apple App Store / Google Play Store
 **Purpose:** Processing in-app purchases
 
-Payment information is handled entirely by Apple or Google. We do not receive or store your payment card details, billing address, or other financial information.      
+Payment information is handled entirely by Apple or Google. We do not receive or store your payment card details, billing address, or other financial information.
 
 ## How We Use Your Information
 
@@ -154,5 +160,3 @@ If you have questions about this Privacy Policy, please contact us at:
 ---
 
 *This privacy policy applies to BucketBook version 1.0.0 and later.*
-
----
