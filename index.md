@@ -5,6 +5,7 @@ title: BucketBook - Basketball Stats Tracker
 
 <div class="hero">
   <div class="hero-content">
+    <img src="assets/images/logo.png" alt="BucketBook" class="hero-logo">
     <h1>BucketBook</h1>
     <p class="tagline">Track your basketball stats. Elevate your game.</p>
     <div class="app-badges">
