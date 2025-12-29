@@ -143,9 +143,17 @@ We implement appropriate security measures including:
 - Secure token storage using platform-native APIs
 - Password hashing (never stored in plain text)
 
-## Children's Privacy
+## Age Requirements & Children's Privacy
 
-BucketBook does not knowingly collect personal information from children under 13. The app may be used by children under parental supervision, but account creation requires a valid email address.
+BucketBook is designed for parents, coaches, and athletes to track basketball statistics.
+
+**App Users:** The person creating an account and using the app should be 13 years or older. Children under 13 may use the app with parental supervision and consent.   
+
+**Player Profiles:** Users may create player profiles to track statistics for themselves or others (such as a parent tracking their child's games, or a coach tracking team members). Player profiles contain only basketball-related information (name, jersey number, optional photo, and game statistics) entered by the app user.
+
+We do not knowingly collect personal information directly from children under 13. If a parent or guardian creates player profiles for their children, the parent is responsible for that data and may delete it at any time through the app.
+
+If you believe we have inadvertently collected information from a child under 13 without proper consent, please contact us at support@bucket-book.com and we will promptly delete it
 
 ## Changes to This Policy
 
@@ -155,7 +163,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email:** bucketbookbasketballstats@gmail.com
+**Email:** support@bucket-book.com
 
 ---
 
