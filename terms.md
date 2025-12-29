@@ -153,7 +153,7 @@ These Terms, together with the Privacy Policy, constitute the entire agreement b
 
 If you have questions about these Terms, please contact us at:
 
-**Email:** bucketbookbasketballstats@gmail.com
+**Email:** support@bucket-book.com
 
 ---
 
