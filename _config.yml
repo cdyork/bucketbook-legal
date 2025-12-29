@@ -1,5 +1,24 @@
 title: BucketBook
-description: Legal documents for BucketBook basketball stats app
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-  - jekyll-remote-theme
+description: Basketball stats tracking app - Track your game, elevate your play
+url: https://cdyork.github.io
+baseurl: /bucketbook-legal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Default layout for pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: "index.md"
+    values:
+      layout: default
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE

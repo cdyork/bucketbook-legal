@@ -1,5 +1,6 @@
 ---
-title: Support
+layout: page
+title: Support - BucketBook
 ---
 
 # BucketBook Support

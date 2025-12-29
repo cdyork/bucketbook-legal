@@ -1,3 +1,8 @@
+---
+layout: page
+title: Privacy Policy - BucketBook
+---
+
 # Privacy Policy for BucketBook
 
 **Last Updated: December 26, 2025**

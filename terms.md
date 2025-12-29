@@ -1,3 +1,8 @@
+---
+layout: page
+title: Terms of Service - BucketBook
+---
+
 # Terms of Service for BucketBook
 
 **Last Updated: December 26, 2025**
