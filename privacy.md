@@ -7,7 +7,7 @@ title: Privacy Policy - BucketBook
 
 **Last Updated: December 26, 2025**
 
-This Privacy Policy describes how BucketBook ("we," "our," or "the App") collects, uses, and protects your information when you use our basketball statistics tracking application.
+This Privacy Policy describes how BucketBook, operated by BucketBook LLC ("we," "us," or "our"), collects, uses, and protects your information when you use our basketball statistics tracking application ("App").
 
 ## Information We Collect
 
@@ -168,6 +168,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
+**BucketBook LLC**
 **Email:** support@bucket-book.com
 
 ---

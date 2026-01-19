@@ -7,7 +7,7 @@ title: Terms of Service - BucketBook
 
 **Last Updated: December 26, 2025**
 
-These Terms of Service ("Terms") govern your use of the BucketBook mobile application ("App," "Service," or "we"). By downloading, installing, or using BucketBook, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of the BucketBook mobile application ("App" or "Service") operated by BucketBook LLC ("we," "us," or "our"). By downloading, installing, or using BucketBook, you agree to these Terms.
 
 ## 1. Description of Service
 
@@ -100,7 +100,7 @@ Your use of the App is also governed by our Privacy Policy, which describes how 
 ## 8. Intellectual Property
 
 ### Our Rights
-BucketBook, including its design, features, code, and branding, is owned by us and protected by intellectual property laws. These Terms do not grant you any rights to our trademarks, logos, or other brand features.
+BucketBook, including its design, features, code, and branding, is owned by BucketBook LLC and protected by intellectual property laws. These Terms do not grant you any rights to our trademarks, logos, or other brand features.
 
 ### Feedback
 If you provide suggestions or feedback about the App, you grant us the right to use that feedback without restriction or compensation.
@@ -158,6 +158,7 @@ These Terms, together with the Privacy Policy, constitute the entire agreement b
 
 If you have questions about these Terms, please contact us at:
 
+**BucketBook LLC**
 **Email:** support@bucket-book.com
 
 ---
