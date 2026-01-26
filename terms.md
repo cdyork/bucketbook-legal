@@ -45,23 +45,40 @@ You may delete your account at any time through the Settings screen. Account del
 
 ### Free Tier
 The App offers a free tier with the following limits:
-- 1 player
+- 2 players
 - 10 games
 - 2 seasons
 - Local device storage only
 
 ### Pro Subscription
 BucketBook Pro removes these limits and adds additional features:
-- Up to 5 players
+- Up to 10 players
 - Unlimited games
 - Unlimited seasons
+- Goals tracking
+- Stats comparison
+- Season trends
 - Cloud backup and sync across devices
 
-### Billing
-- Subscriptions are billed through the Apple App Store or Google Play Store
-- Payment is charged to your App Store or Play Store account
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
-- You can manage or cancel your subscription through your device's account settings
+### Subscription Options and Pricing
+- **Monthly Subscription:** $3.99 USD per month
+- **Annual Subscription:** $34.99 USD per year
+
+Prices may vary by region and are displayed in your local currency at time of purchase.
+
+### Billing and Renewal
+- Payment will be charged to your Apple ID account (or Google Play account) at confirmation of purchase
+- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period at the same price
+- You can manage your subscription and turn off auto-renewal by going to your Account Settings on your device after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription
+
+### Cancellation
+You may cancel your subscription at any time through your device's account settings:
+- **iOS:** Settings > [Your Name] > Subscriptions > BucketBook
+- **Android:** Google Play Store > Menu > Subscriptions > BucketBook
+
+Cancellation will take effect at the end of the current billing period. You will retain access to Pro features until then.
 
 ### Refunds
 Refund requests are handled by Apple or Google according to their respective policies. We do not process refunds directly.
