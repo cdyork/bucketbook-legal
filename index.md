@@ -51,10 +51,6 @@ title: BucketBook - Basketball Stats Tracker
       <h3>Privacy Policy</h3>
       <p>How we handle your data</p>
     </a>
-    <a href="terms" class="link-card">
-      <h3>Terms of Service</h3>
-      <p>Rules for using BucketBook</p>
-    </a>
     <a href="support" class="link-card">
       <h3>Support</h3>
       <p>Get help & FAQs</p>
